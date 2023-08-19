@@ -45,6 +45,9 @@ To use the MultiPDF Chat App, follow these steps:
    ```
    streamlit run app.py
    ```
+   ```
+   streamlit run app_updated.py
+   ```
 
 3. The application will launch in your default web browser, displaying the user interface.
 
